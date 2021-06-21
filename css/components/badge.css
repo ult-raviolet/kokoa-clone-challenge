@@ -1,0 +1,21 @@
+.badge {
+  background-color: var(--pntcolor);
+  width: 30px;
+  height: 30px;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-weight: 600;
+}
+
+.screen-header__dot {
+  background-color: var(--pntcolor);
+  width: 6px;
+  height: 6px;
+  border-radius: 3px;
+  position: absolute;
+  bottom: 20px;
+  right: -8px;
+}
